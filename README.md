@@ -1,4 +1,4 @@
-- sobre mim
+# Sobre mim
 - 👋 olá meu nome é @lunalinda00
 - :+1: meu e-mail de contato é @kaylane.marcele.pereira@escola.pr.gov.br
 - 👀 eu estou interessada em aprender a programar novas linguagens 
